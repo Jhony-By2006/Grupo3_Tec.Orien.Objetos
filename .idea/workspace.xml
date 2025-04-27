@@ -1,21 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="18a9bf30-ecf6-4a8c-a9c7-bd6a726df713" name="Changes" comment="Add additional comment in Main.java">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Grupo3_Tec.Orien.Objetos.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ACTIVIDAD SEMANAL 1/Ejercicio 3/Ejercicio 4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ACTIVIDAD SEMANAL 1/Trabajo4_S01_POAO7354/Trabajo4_S01_POAO7354.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ACTIVIDAD SEMANAL 1/Trabajo7_S01_POAO_7354/Trabajo7_S01_POAO_7354.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ACTIVIDAD SEMANAL 2/Ejercicio 4/Ejercicio 6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ACTIVIDAD SEMANAL 3/Ejercicio 1/Ejercicio 13.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ACTIVIDAD SEMANAL 3/Ejercicio 5/Ejercicio 7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ACTIVIDAD SEMANAL 3/Ejercicio 9/Ejercicio 10.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="18a9bf30-ecf6-4a8c-a9c7-bd6a726df713" name="Changes" comment="Add additional comment in Main.java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,8 +39,11 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "Merging Probando",
+    "git-widget-placeholder": "Probando",
     "last_opened_file_path": "D:/Java/TÉCNICAS DE PROGRAM.ORIE. OBJ/ACTIVIDAD SEMANAL 1, 2 y 3/Grupo3_Tec.Orien.Objetos",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "editing.templates"
   }
 }]]></component>
